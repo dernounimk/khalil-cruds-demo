@@ -39,7 +39,3 @@ A simple yet powerful **CRUD (Create, Read, Update, Delete)** web application fo
 - **HTML5** – Structure and semantics
 - **CSS3** – Styling and responsive layout
 - **Local Storage API** – Client-side data persistence
-
----
-
-## 📂 Project Structure
